@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14242714725",
+    "firebase_url": "https://video-anak-382c8.firebaseio.com",
+    "project_id": "video-anak-382c8",
+    "storage_bucket": "video-anak-382c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14242714725:android:1cb132277c60d7a866e28c",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.pswallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14242714725-kvoikjitfdfhabm6n4tl03ntug6878j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEk0LElZtbl6cNK-XFQije_FYmePkfLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14242714725-kvoikjitfdfhabm6n4tl03ntug6878j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
