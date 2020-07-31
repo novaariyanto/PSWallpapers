@@ -92,8 +92,8 @@
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\Nova\Desktop\projet\PSWallpapers\app\libs\android-async-http-1.4.4.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\Nova\Desktop\projet\PSWallpapers\app\libs\YouTubeAndroidPlayerApi.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/mac/AndroidStudioProjects/Best Chanyeol Exo Wallpaper /app/libs/android-async-http-1.4.4.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/mac/AndroidStudioProjects/Best Chanyeol Exo Wallpaper /app/libs/YouTubeAndroidPlayerApi.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:3.5.1@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.bumptech.glide:okhttp3-integration:4.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0-alpha03@jar" level="project" />

@@ -8,11 +8,11 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.panaceasoft.pswallpaper"
+        applicationId "com.rumahdev.exo.chanyeol"
         minSdkVersion 17
         targetSdkVersion 28
-        versionCode 22
-        versionName "2.8"
+        versionCode 1
+        versionName "1.0.0"
         multiDexEnabled true
     }
     //2.8 => 22

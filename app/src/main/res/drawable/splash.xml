@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
-    android:opacity="opaque">
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:drawable="@color/primary" />
-
-    <item>
-        <bitmap
-            android:gravity="center|bottom"
-            android:src="@drawable/splash_loading" />
-    </item>
-
-    <item>
-        <bitmap
-            android:gravity="center_horizontal"
-            android:src="@drawable/ps_icon" />
-    </item>
-
 </layer-list>

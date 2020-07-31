@@ -6,7 +6,7 @@
     <data>
         <variable
             name="allWallpapers"
-            type="com.panaceasoft.pswallpaper.viewobject.Wallpaper" />
+            type="com.rumahdev.exo.chanyeol.viewobject.Wallpaper" />
     </data>
 
 

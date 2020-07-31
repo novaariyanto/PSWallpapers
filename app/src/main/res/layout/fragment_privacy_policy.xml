@@ -6,7 +6,7 @@
     <data>
         <variable
             name="aboutUs"
-            type="com.panaceasoft.pswallpaper.viewobject.AboutUs" />
+            type="com.rumahdev.exo.chanyeol.viewobject.AboutUs" />
     </data>
 
     <ScrollView

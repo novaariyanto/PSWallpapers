@@ -5,7 +5,7 @@
     <data>
         <variable
             name="user"
-            type="com.panaceasoft.pswallpaper.viewobject.User" />
+            type="com.rumahdev.exo.chanyeol.viewobject.User" />
     </data>
 
         <androidx.core.widget.NestedScrollView
@@ -17,7 +17,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:paddingBottom="@dimen/space_16"
-                tools:context="com.panaceasoft.pswallpaper.ui.user.ProfileFragment">
+                tools:context="com.rumahdev.exo.chanyeol.ui.user.ProfileFragment">
 
                 <ImageView
                     android:id="@+id/user_cover_imageview"

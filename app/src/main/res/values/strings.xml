@@ -4,22 +4,22 @@
     <!-- Keys to change -->
     <!--================-->
 
-    <string name="facebook_app_id" translatable="false">519741425245797</string>
+    <string name="facebook_app_id" translatable="false">0000000000000000</string>
     <!--<string name="facebook_app_id" translatable="false">0000000000000000</string>-->
 
-    <string name="fb_login_protocol_scheme" translatable="false">fb519741425245797</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb0000000000000000</string>
     <!--<string name="fb_login_protocol_scheme" translatable="false">fb0000000000000000</string>-->
 
-    <string name="adview_banner_ad_key" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="adview_banner_ad_key" translatable="false">ca-app-pub-2222072301594657/2199142642</string>
     <!--<string name="adview_banner_ad_key" translatable="false">ca-app-pub-0000000000000000/0000000000</string>-->
 
-    <string name="adview_interstitial_ad_key" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="adview_interstitial_ad_key" translatable="false">ca-app-pub-2222072301594657/7259897631</string>
     <!--<string name="adview_interstitial_ad_key" translatable="false">ca-app-pub-0000000000000000/0000000000</string>-->
 
-    <string name="adview_reward_ad_key" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="adview_reward_ad_key" translatable="false">ca-app-pub-2222072301594657/5755244273</string>
     <!--<string name="adview_reward_ad_key" translatable="false">ca-app-pub-0000000000000000/0000000000</string>-->
 
-    <string name="adview_publisher_key" translatable="false">pub-8907881762519005</string>
+    <string name="adview_publisher_key" translatable="false">ca-app-pub-2222072301594657~6138387658</string>
     <!--<string name="adview_publisher_key" translatable="false">pub-0000000000000000</string>-->
 
     <!--====================-->
@@ -28,11 +28,10 @@
 
 
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="floating_button_behaviour" translatable="false">com.panaceasoft.pswallpaper.ui.dashboard.ScrollAwareFABBehavior</string>
+    <string name="floating_button_behaviour" translatable="false">com.rumahdev.exo.chanyeol.ui.dashboard.ScrollAwareFABBehavior</string>
     <string name="phone_login_phone_hint" translatable="false">+959121212121</string>
     <!-- App General -->
-    <string name="app_name">Cahyaniryn Wallpapers</string>
-    <string name="app__app_name">Cahyaniryn Wallpaper</string>
+    <string name="app_name">" Best Chanyeol Wallpaper HD"</string>
     <string name="app__ok">OK</string>
     <string name="app__drawer_open">Drawer Open</string>
     <string name="app__drawer_close">Drawer Close</string>
@@ -465,6 +464,7 @@
     <string name="verify_phone__back_login">BACK TO LOGIN ?</string>
     <string name="verify_phone__title">Phone Verification</string>
     <string name="verify_phone_code">Enter OTP Code</string>
+    <string name="app__app_name">" Best Chanyeol Wallpaper HD"</string>
 
 
 </resources>

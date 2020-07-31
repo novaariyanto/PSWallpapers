@@ -7,7 +7,7 @@
 
         <variable
             name="allWallpaperByCategory"
-            type="com.panaceasoft.pswallpaper.viewobject.Category" />
+            type="com.rumahdev.exo.chanyeol.viewobject.Category" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -6,7 +6,7 @@
 
         <variable
             name="user"
-            type="com.panaceasoft.pswallpaper.viewobject.User" />
+            type="com.rumahdev.exo.chanyeol.viewobject.User" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -21,7 +21,7 @@
                 android:id="@+id/layout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context="com.panaceasoft.pswallpaper.ui.user.ProfileFragment">
+                tools:context="com.rumahdev.exo.chanyeol.ui.user.ProfileFragment">
 
                 <ImageView
                     android:id="@+id/user_cover_imageview"

@@ -5,7 +5,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.panaceasoft.pswallpaper.ui.notification.NotificationSettingFragment"
+        tools:context="com.rumahdev.exo.chanyeol.ui.notification.NotificationSettingFragment"
         android:id="@+id/layout">
 
 

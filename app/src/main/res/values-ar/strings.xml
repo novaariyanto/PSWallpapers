@@ -1,12 +1,11 @@
 <resources>
 
     <!-- App General -->
-    <string name="app_name">Cahyaniryn Wallpapers</string>
-    <string name="app__app_name">Cahyaniryn Wallpapers</string>
+    <string name="app_name">" Best Chanyeol Wallpaper HD"</string>
     <string name="app__ok">حسنا</string>
     <string name="app__drawer_open">درج مفتوح</string>
     <string name="app__drawer_close">إغلاق الدرج</string>
-    <string name="app__cancel">إلغاء</string>
+    <string name="app__cancel">Cancel</string>
     <string name="success">نجاح</string>
     <string name="confirm">تؤكد</string>
     <string name="info">INFO</string>
@@ -431,4 +430,5 @@
     <string name="verify_phone__back_login">العودة إلى تسجيل الدخول؟</string>
     <string name="verify_phone__title">التحقق من رقم الهاتف</string>
     <string name="verify_phone_code">أدخل رمز OTP</string>
+    <string name="app__app_name">" Best Chanyeol Wallpaper HD"</string>
 </resources>
